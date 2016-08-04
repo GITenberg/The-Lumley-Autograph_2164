@@ -1,0 +1,27 @@
+_repo: The-Lumley-Autograph_2164
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cooper, Susan Fenimore
+    alias: Penfeather, Amabel
+    birthdate: 1813
+    deathdate: 1894
+    gutenberg_agent_id: '753'
+    url: http://www.gutenberg.org/2009/agents/753
+    wikipedia: http://en.wikipedia.org/wiki/Susan_Fenimore_Cooper
+description: ''
+gutenberg_issued: '2000-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2164'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Autographs -- Collectors and collecting -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Satire'
+- GITenberg
+title: The Lumley Autograph
+url: http://www.gutenberg.org/ebooks/2164
